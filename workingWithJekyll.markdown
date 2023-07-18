@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Taking it easy"
 permalink: /testing
+---
 
 #Hello!
 
