@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "107833202ede1e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "891a9edc845a255b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a522a8cc17025d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d690e9d540320584",
+    "type": "split",
+    "children": [
+      {
+        "id": "6978d4df151e0448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f343a4d1c7ada5a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4db8423c2549335",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a8f848cb19e7bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9a8b119f1959c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "728d321e97aae3f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b8f884bc9114da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "137533fe22106718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9bda28129de7a3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8738e4fbf65ec4dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f343a4d1c7ada5a7",
+  "lastOpenFiles": [
+    "workingWithJekyll.md",
+    "index.md",
+    "about.md",
+    "_site/jekyll/update/2023/07/18/welcome-jekyll.html",
+    "_site/testing.html",
+    "_drafts/2023-07-18-welcome.jekyll.markdown",
+    "_drafts",
+    "_posts/_site/2023-07-18-welcome-to-jekyll.html",
+    "_posts/_site/2023-07-18-welcome-jekyll.html",
+    "_posts/_site",
+    "_posts/2023-07-18-welcome-jekyll.md"
+  ]
+}
